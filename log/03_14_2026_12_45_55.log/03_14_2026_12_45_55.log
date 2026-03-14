@@ -1,0 +1,6 @@
+[ 2026-03-14 12:45:56,512 ] werkzeug - WARNING -  * Debugger is active!
+[ 2026-03-14 12:45:56,521 ] werkzeug - INFO -  * Debugger PIN: 904-366-472
+[ 2026-03-14 12:46:14,438 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\anaconda3\\Lib\\site-packages\\torch\\distributed\\__init__.py', reloading
+[ 2026-03-14 12:46:14,501 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\anaconda3\\Lib\\site-packages\\torch\\distributed\\distributed_c10d.py', reloading
+[ 2026-03-14 12:46:14,637 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\anaconda3\\Lib\\site-packages\\torch\\optim\\__init__.py', reloading
+[ 2026-03-14 12:46:14,679 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\anaconda3\\Lib\\site-packages\\torch\\optim\\lr_scheduler.py', reloading

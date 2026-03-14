@@ -1,0 +1,6 @@
+[ 2026-03-14 13:18:20,642 ] werkzeug - WARNING -  * Debugger is active!
+[ 2026-03-14 13:18:20,649 ] werkzeug - INFO -  * Debugger PIN: 904-366-472
+[ 2026-03-14 13:18:27,286 ] werkzeug - INFO - 127.0.0.1 - - [14/Mar/2026 13:18:27] "GET / HTTP/1.1" 200 -
+[ 2026-03-14 13:19:03,462 ] werkzeug - INFO - 127.0.0.1 - - [14/Mar/2026 13:19:03] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2026-03-14 13:20:20,343 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\anaconda3\\Lib\\site-packages\\_pytest\\cacheprovider.py', reloading
+[ 2026-03-14 13:20:20,460 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\anaconda3\\Lib\\site-packages\\_pytest\\capture.py', reloading

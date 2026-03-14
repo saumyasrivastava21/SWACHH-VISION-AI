@@ -1,0 +1,19 @@
+[ 2026-03-14 12:50:10,599 ] werkzeug - WARNING -  * Debugger is active!
+[ 2026-03-14 12:50:10,609 ] werkzeug - INFO -  * Debugger PIN: 904-366-472
+[ 2026-03-14 12:50:14,133 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\predict.py', reloading
+[ 2026-03-14 12:50:14,134 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\predict.py', reloading
+[ 2026-03-14 12:50:14,142 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\predict.py', reloading
+[ 2026-03-14 12:50:14,143 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\predict.py', reloading
+[ 2026-03-14 12:50:14,165 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\val.py', reloading
+[ 2026-03-14 12:50:14,168 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\val.py', reloading
+[ 2026-03-14 12:50:14,169 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\val.py', reloading
+[ 2026-03-14 12:50:14,170 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\val.py', reloading
+[ 2026-03-14 12:50:14,172 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\val.py', reloading
+[ 2026-03-14 12:50:14,174 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\val.py', reloading
+[ 2026-03-14 12:50:14,189 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\train.py', reloading
+[ 2026-03-14 12:50:14,196 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\train.py', reloading
+[ 2026-03-14 12:50:14,198 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\train.py', reloading
+[ 2026-03-14 12:50:14,199 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\train.py', reloading
+[ 2026-03-14 12:50:14,200 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\train.py', reloading
+[ 2026-03-14 12:50:14,201 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\train.py', reloading
+[ 2026-03-14 12:50:14,201 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\yolov5\\segment\\train.py', reloading

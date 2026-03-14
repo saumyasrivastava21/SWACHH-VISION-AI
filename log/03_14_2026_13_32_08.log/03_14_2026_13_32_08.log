@@ -1,0 +1,7 @@
+[ 2026-03-14 13:32:10,776 ] werkzeug - WARNING -  * Debugger is active!
+[ 2026-03-14 13:32:10,802 ] werkzeug - INFO -  * Debugger PIN: 904-366-472
+[ 2026-03-14 13:32:10,917 ] werkzeug - WARNING -  * Debugger is active!
+[ 2026-03-14 13:32:10,943 ] werkzeug - INFO -  * Debugger PIN: 904-366-472
+[ 2026-03-14 13:32:11,542 ] werkzeug - INFO - 127.0.0.1 - - [14/Mar/2026 13:32:11] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2026-03-14 13:33:40,237 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\app.py', reloading
+[ 2026-03-14 13:33:40,238 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\app.py', reloading

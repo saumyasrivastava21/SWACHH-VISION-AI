@@ -1,0 +1,4 @@
+[ 2026-03-14 12:46:21,190 ] werkzeug - WARNING -  * Debugger is active!
+[ 2026-03-14 12:46:21,198 ] werkzeug - INFO -  * Debugger PIN: 904-366-472
+[ 2026-03-14 12:46:21,599 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\anaconda3\\Lib\\site-packages\\matplotlib\\pyplot.py', reloading
+[ 2026-03-14 12:46:21,715 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\anaconda3\\Lib\\site-packages\\matplotlib\\typing.py', reloading

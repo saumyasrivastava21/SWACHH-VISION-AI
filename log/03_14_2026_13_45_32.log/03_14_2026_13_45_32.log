@@ -1,0 +1,7 @@
+[ 2026-03-14 13:45:33,522 ] werkzeug - WARNING -  * Debugger is active!
+[ 2026-03-14 13:45:33,536 ] werkzeug - INFO -  * Debugger PIN: 904-366-472
+[ 2026-03-14 13:45:33,931 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\anaconda3\\Lib\\site-packages\\torch\\distributed\\tensor\\_collective_utils.py', reloading
+[ 2026-03-14 13:45:34,097 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\anaconda3\\Lib\\site-packages\\torch\\distributed\\fsdp\\_fully_shard\\_fsdp_param.py', reloading
+[ 2026-03-14 13:45:34,104 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\anaconda3\\Lib\\site-packages\\torch\\distributed\\fsdp\\_fully_shard\\_fsdp_collectives.py', reloading
+[ 2026-03-14 13:45:34,408 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\anaconda3\\Lib\\site-packages\\torch\\_dynamo\\_trace_wrapped_higher_order_op.py', reloading
+[ 2026-03-14 13:45:34,451 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\anaconda3\\Lib\\site-packages\\torch\\_dynamo\\variables\\streams.py', reloading

@@ -1,0 +1,3 @@
+[ 2026-03-14 14:01:50,714 ] werkzeug - WARNING -  * Debugger is active!
+[ 2026-03-14 14:01:50,720 ] werkzeug - INFO -  * Debugger PIN: 904-366-472
+[ 2026-03-14 14:02:11,178 ] werkzeug - INFO -  * Detected change in 'C:\\Users\\saums\\OneDrive\\Desktop\\PREP_2026\\dev\\SwachhVisionAI\\End-to-end-Waste-Detection-Using-Yolo-v5\\app.py', reloading
